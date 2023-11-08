@@ -1,3 +1,6 @@
 [submodule "frontend/muscler-frontend-angular"]
 	path = frontend/muscler-frontend-angular
 	url = https://github.com/SandroScheuermann/muscler-frontend-angular
+[submodule "backend/muscler-backend-csharp"]
+	path = backend/muscler-backend-csharp
+	url = https://github.com/SandroScheuermann/muscler-backend-csharp
